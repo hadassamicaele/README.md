@@ -2,7 +2,7 @@
 
 - 4° Semestre - T2
 
-**Dev:** Hadassa Micaele
+**Dev:** Hadassa Micaele Paulo de Sousa
 
 ## 📚 Atividades
 
