@@ -46,7 +46,7 @@
 | Projeto 1 | [Repositório](https://github.com/hadassamicaele/projeto1.html) | [Página](https://hadassamicaele.github.io/projeto1.html/) |
 | Projeto 2 | [Repositório](https://github.com/hadassamicaele/Projeto2.html) | [Página](https://hadassamicaele.github.io/Projeto2.html/) |
 | Projeto 3 | [Repositório](https://github.com/hadassamicaele/Projeto3.html) | [Página](https://hadassamicaele.github.io/Projeto3.html/) |
-| Projeto 4 | [Repositório](https://github.com/hadassamicaele/Projeto4.html) | [Página](https://hadassamicaele.github.io/Projeto4.html/) |
+| Projeto 4 | [Repositório](https://github.com/hadassamicaele/Projeto4.html.git) | [Página](https://hadassamicaele.github.io/projeto4.html/) |
 | Projeto 5 | [Repositório](https://github.com/hadassamicaele/Projeto5.html) | [Página](https://hadassamicaele.github.io/Projeto5.html/) |
 | Projeto 6 | [Repositório](https://github.com/hadassamicaele/Projeto6.html) | [Página](https://hadassamicaele.github.io/Projeto6.html/) |
 | Projeto 7 | [Repositório](https://github.com/hadassamicaele/Projeto7.html) | [Página](https://hadassamicaele.github.io/Projeto7.html/) |
